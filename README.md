@@ -19,4 +19,4 @@ The goal was to create a quiz app which could track the user's correct answers.
 
 
 ## Final Result
-![](Quizzler_Demo.MP4)
+![](Quizzler_Demo.gif)
