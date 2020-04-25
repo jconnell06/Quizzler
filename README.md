@@ -18,4 +18,4 @@ The goal was to create a quiz app which could track the user's correct answers.
 >This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
 ## Final Result
-![](Quizzler_Demo.gif)
+![](quizzlerDemo.gif)
